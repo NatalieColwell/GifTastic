@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(128, 128, 128, 0.409);
+    
+}
+
+h1 {
+ 
+    font-family: 'IM Fell DW Pica', serif;
+    
+}
+
+h2 {
+    font-family: 'Stylish', sans-serif;
+ }
+
+button, input#add-moods.submit {
+    font-size: 12px;
+    font-weight: 500;
+    color: blue;
+}
+
+p {
+    color: blue;
+}
+
+label, p {
+    font-family: 'Stylish', sans-serif;
+    font-size: 20px;
+}
+
+
+button,
+div,
+form,
+input {
+    margin: 10px;
+    align-content: center;
+    
+}
+
+#mood-views, .item {
+    align-content: unset;
+    display: flow-root;
+    float: left;
+}
